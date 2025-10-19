@@ -1,6 +1,22 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building a Supervised ML Model Training Framework that:<br><br>Automatically trains multiple classifiers/regressors<br><br>Handles model-specific constraints safely (e.g., non-negative enforcement for NB)<br><br>Generates full experiment reports (metrics, confusion matrices, predictions, artifacts)<br><br>Exports trained models as .joblib for fast reuse<br><br>Has an AutoML-like flow but remains developer-friendly and extensible<br><br>👯 I’m looking to collaborate on<br><br>Improving the AutoML logic (meta-learning / model ranking)<br><br>Adding feature preprocessing pipelines dynamically per model<br><br>Integrating hyperparameter search (Optuna / Ray Tune)<br><br>Adding LLM-based dataset insight generation (auto-doc of dataset)<br><br>Building a web UI (Streamlit / FastAPI + React) for non-coders<br><br>🤝 I’m looking for help with<br><br>Designing a smart compatibility layer for models with strict input requirements<br><br>Extending to semi-supervised / self-supervised branches<br><br>Optional GPU acceleration for classical ML (through RAPIDS / cuML)<br><br>A clean plugin system for new models / metrics<br><br>🌱 I’m currently learning<br><br>Best practices for ML experiment tracking (MLflow / WandB style)<br><br>Advanced distribution-aware preprocessing pipelines<br><br>Better generalization strategies for mixed feature types (text + numeric + categorical)<br><br>LLM prompting techniques for AutoML insights and explanation<br><br>💬 Ask me about<br><br>Classical ML → production-ready pipelines<br><br>Data validation / preprocessing strategies<br><br>Naive Bayes behavior + model input constraints<br><br>Model compatibility debugging (like MultinomialNB negative-value issue)<br><br>Turning experimentation code into reusable frameworks<br><br>⚡ Fun fact<br><br>I debug models the same way people debug life problems — start by clipping all negative values 😄
+👋 Hi, I'm Athun
 
+🔭 Currently working on:
+A lightweight AutoML-style ML framework that trains multiple models, auto-handles preprocessing issues (like NB negative-values), and exports full reports + artifacts.
+
+👯 Looking to collaborate on:
+Improving model selection logic & adding smarter preprocessing pipelines.
+
+🤝 Need help with:
+Designing a plugin system for new ML algorithms + experiment tracking.
+
+🌱 Learning:
+Advanced ML pipelines, meta-learning & LLM-based model explainability.
+
+💬 Ask me about:
+Classical ML, model debugging, AutoML workflow design.
+
+⚡ Fun fact:
+I treat errors like gradients — always moving in the right direction 😄
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Athun Sujith) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kannan05555) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Athun Sujith) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Athun_Sujith) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Athun Sujith                                                               ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Time Traval Inia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:athundeveloperid59@gmail.com) 
