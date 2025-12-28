@@ -100,34 +100,23 @@ MySQL, MongoDB, MS SQL Server, Firebase
 ### MLOps & Apps
 MLflow, Streamlit
 
----
-## 📊 GitHub Stats
+---## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AthunSujith&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AthunSujith&show_icons=true&theme=dark&cache_seconds=1800" width="100%" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AthunSujith&theme=midnight-purple" />
-</p>
+<img src="https://streak-stats.demolab.com?user=AthunSujith&theme=dark&cache_seconds=1800" width="100%" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthunSujith&layout=compact&theme=midnight-purple" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthunSujith&layout=compact&theme=dark&cache_seconds=1800" width="100%" />
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AthunSujith&theme=radical&margin-w=15&no-frame=true" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=AthunSujith&theme=darkhub&margin-w=10&no-frame=true&cache_seconds=1800" width="100%" />
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AthunSujith&label=Profile%20Views&color=6" />
-</p>
+<img src="https://visitcount.itsvg.in/api?id=AthunSujith&label=Profile%20Views&color=6&cache_seconds=1800" width="100%" />
 
 
 ![](https://visitcount.itsvg.in/api?id=AthunSujith&color=0)
