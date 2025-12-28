@@ -101,9 +101,33 @@ MySQL, MongoDB, MS SQL Server, Firebase
 MLflow, Streamlit
 
 ---
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AthunSujith&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=tru
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AthunSujith&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AthunSujith&theme=midnight-purple" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthunSujith&layout=compact&theme=midnight-purple" />
+</p>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AthunSujith&theme=radical&margin-w=15&no-frame=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=AthunSujith&label=Profile%20Views&color=6" />
+</p>
+
 
 ![](https://visitcount.itsvg.in/api?id=AthunSujith&color=0)
