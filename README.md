@@ -102,17 +102,7 @@ MLflow, Streamlit
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AthunSujith&theme=midnight-purple&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=AthunSujith&theme=midnight-purple)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AthunSujith&theme=midnight-purple&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AthunSujith&theme=radical&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=AthunSujith&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=tru
 
 ---
 
