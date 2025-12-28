@@ -43,15 +43,15 @@ I perform failure post-mortems.
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AthunSujith&show_icons=true&theme=dark&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AthunSujith&show_icons=true&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AthunSujith&theme=dark&cache_seconds=1800"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AthunSujith&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthunSujith&layout=compact&theme=dark&cache_seconds=1800"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AthunSujith&layout=compact&theme=dark"/>
 </p>
 
 ---
@@ -59,7 +59,13 @@ I perform failure post-mortems.
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AthunSujith&theme=darkhub&no-frame=true&margin-w=10&cache_seconds=1800"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AthunSujith&theme=onedark&no-frame=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AthunSujith&style=flat-square"/>
 </p>
 
 ---
